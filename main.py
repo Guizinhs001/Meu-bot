@@ -96,7 +96,7 @@ def main() -> None:
     # No Windows (cmd): set BOT_TOKEN="SEU_TOKEN_AQUI"
     # No Windows (PowerShell): $env:BOT_TOKEN="SEU_TOKEN_AQUI"
     # Certifique-se de substituir "SEU_TOKEN_AQUI" pelo token real do seu bot.
-    bot_token = os.getenv("BOT_TOKEN")
+    bot_token = os.getenv("8332178886:AAEhwRQB7rBblJ40ZFiN-IC-DM4eT7h0Cc8")
 
     if not bot_token:
         logger.critical(
